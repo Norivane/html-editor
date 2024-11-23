@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+
+# 项目特定
+session.json
+*.html
+lab1.md
+
+# IDE
+.vscode/
